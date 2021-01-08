@@ -12,11 +12,15 @@ body {
     padding: 0;
     background-color: var(--background-color);
     color: var(--color);
-    font-family: 'Libre Barcode 39 Text', monospace;
+    font-family: monospace;
     font-size: 5.0rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+
+barcode {
+    font-family: 'Libre Barcode 39 Text';
 }
