@@ -1,2 +1,2 @@
-document.querySelector('.barcode').insertAdjacentHTML('afterbegin', '*');
-document.querySelector('.barcode').insertAdjacentHTML('beforeend', '*');
+document.querySelectorAll('.barcode').insertAdjacentHTML('afterbegin', '*');
+document.querySelectorAll('.barcode').insertAdjacentHTML('beforeend', '*');
