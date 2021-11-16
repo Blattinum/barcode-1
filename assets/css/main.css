@@ -24,3 +24,7 @@ body {
 .barcode {
     font-family: 'Libre Barcode 39 Text';
 }
+
+.sm {
+    font-size: 2.0rem;
+}
